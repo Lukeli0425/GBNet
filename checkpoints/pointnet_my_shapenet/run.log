@@ -1,0 +1,27 @@
+Namespace(exp_name='pointnet_my_shapenet', model='pointnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.039751, train acc: 0.849333, train avg acc: 0.849333
+Test 0, loss: 0.975385, test acc: 0.904011, test avg acc: 0.903702
+Current Best: 0.904011
+Train 1, loss: 0.939867, train acc: 0.923467, train avg acc: 0.923467
+Test 1, loss: 0.933948, test acc: 0.915473, test avg acc: 0.916675
+Current Best: 0.915473
+Train 2, loss: 0.932133, train acc: 0.931733, train avg acc: 0.931733
+Test 2, loss: 0.871339, test acc: 0.954155, test avg acc: 0.953969
+Current Best: 0.954155
+Train 3, loss: 0.920507, train acc: 0.935200, train avg acc: 0.935200
+Test 3, loss: 0.877283, test acc: 0.948424, test avg acc: 0.949514
+Train 4, loss: 0.913232, train acc: 0.939467, train avg acc: 0.939467
+Test 4, loss: 0.873570, test acc: 0.965616, test avg acc: 0.966220
+Current Best: 0.965616
+Train 5, loss: 0.914946, train acc: 0.930933, train avg acc: 0.930933
+Test 5, loss: 0.857777, test acc: 0.961318, test avg acc: 0.961196
+Train 6, loss: 0.905429, train acc: 0.940533, train avg acc: 0.940533
+Test 6, loss: 0.929097, test acc: 0.944126, test avg acc: 0.943946
+Train 7, loss: 0.909111, train acc: 0.940000, train avg acc: 0.940000
+Test 7, loss: 0.861350, test acc: 0.962751, test avg acc: 0.962441
+Train 8, loss: 0.902580, train acc: 0.947467, train avg acc: 0.947467
+Test 8, loss: 0.862153, test acc: 0.968481, test avg acc: 0.968175
+Current Best: 0.968481
+Train 9, loss: 0.900200, train acc: 0.943200, train avg acc: 0.943200
+Test 9, loss: 0.907993, test acc: 0.944126, test avg acc: 0.945454

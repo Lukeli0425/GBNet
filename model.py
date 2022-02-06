@@ -1,17 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-@Author: Shi Qiu (based on Yue Wang's codes)
-@Contact: shi.qiu@anu.edu.au
-@File: model.py
-@Time: 2021/04/23
-"""
-
-
-import os
-import sys
-import copy
-import math
 import numpy as np
 import torch
 import torch.nn as nn

@@ -1,0 +1,182 @@
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=300, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=300, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=300, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=300, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=300, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=300, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=300, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=300, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=5000, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=10, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=2500, dropout=0.5, emb_dims=2500, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=10, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=2500, dropout=0.5, emb_dims=2500, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=10, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=10, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=10, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=10, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=10, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=32, test_batch_size=16, epochs=10, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=2, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.169090, train acc: 0.725067, train avg acc: 0.725067
+Test 0, loss: 1.167318, test acc: 0.736390, test avg acc: 0.731242
+Current Best: 0.736390
+Train 1, loss: 0.959297, train acc: 0.908533, train avg acc: 0.908533
+Test 1, loss: 0.997351, test acc: 0.878223, test avg acc: 0.877649
+Current Best: 0.878223
+Train 2, loss: 0.936642, train acc: 0.922400, train avg acc: 0.922400
+Test 2, loss: 0.920688, test acc: 0.944126, test avg acc: 0.943965
+Current Best: 0.944126
+Train 3, loss: 0.921125, train acc: 0.931467, train avg acc: 0.931467
+Test 3, loss: 0.866819, test acc: 0.962751, test avg acc: 0.962463
+Current Best: 0.962751
+Train 4, loss: 0.907629, train acc: 0.940800, train avg acc: 0.940800
+Test 4, loss: 0.939575, test acc: 0.901146, test avg acc: 0.898250
+Train 5, loss: 0.906804, train acc: 0.940000, train avg acc: 0.940000
+Test 5, loss: 0.869991, test acc: 0.954155, test avg acc: 0.953478
+Train 6, loss: 0.894948, train acc: 0.947733, train avg acc: 0.947733
+Test 6, loss: 0.861553, test acc: 0.961318, test avg acc: 0.960660
+Train 7, loss: 0.897982, train acc: 0.946400, train avg acc: 0.946400
+Test 7, loss: 0.861729, test acc: 0.964183, test avg acc: 0.963687
+Current Best: 0.964183
+Train 8, loss: 0.877411, train acc: 0.961333, train avg acc: 0.961333
+Test 8, loss: 0.848522, test acc: 0.958453, test avg acc: 0.958457
+Train 9, loss: 0.864955, train acc: 0.968533, train avg acc: 0.968533
+Test 9, loss: 0.893005, test acc: 0.951289, test avg acc: 0.951062
+Namespace(exp_name='gbnet_my_shapenet', model='pointnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.036520, train acc: 0.846400, train avg acc: 0.846400
+Test 0, loss: 0.956091, test acc: 0.929799, test avg acc: 0.928946
+Current Best: 0.929799
+Train 1, loss: 0.945280, train acc: 0.919733, train avg acc: 0.919733
+Test 1, loss: 0.895099, test acc: 0.951289, test avg acc: 0.951788
+Current Best: 0.951289
+Train 2, loss: 0.933371, train acc: 0.928533, train avg acc: 0.928533
+Test 2, loss: 0.901012, test acc: 0.935530, test avg acc: 0.935210
+Train 3, loss: 0.919194, train acc: 0.931467, train avg acc: 0.931467
+Test 3, loss: 0.866839, test acc: 0.961318, test avg acc: 0.961410
+Current Best: 0.961318
+Train 4, loss: 0.911994, train acc: 0.937600, train avg acc: 0.937600
+Test 4, loss: 0.871030, test acc: 0.961318, test avg acc: 0.961786
+Current Best: 0.961318
+Train 5, loss: 0.913282, train acc: 0.938667, train avg acc: 0.938667
+Test 5, loss: 0.852440, test acc: 0.967049, test avg acc: 0.966855
+Current Best: 0.967049
+Train 6, loss: 0.905929, train acc: 0.941067, train avg acc: 0.941067
+Test 6, loss: 0.880538, test acc: 0.959885, test avg acc: 0.959707
+Train 7, loss: 0.911701, train acc: 0.941867, train avg acc: 0.941867
+Test 7, loss: 0.885632, test acc: 0.952722, test avg acc: 0.952262
+Train 8, loss: 0.900441, train acc: 0.947200, train avg acc: 0.947200
+Test 8, loss: 0.853978, test acc: 0.969914, test avg acc: 0.969638
+Current Best: 0.969914
+Train 9, loss: 0.903661, train acc: 0.941600, train avg acc: 0.941600
+Test 9, loss: 0.882805, test acc: 0.955587, test avg acc: 0.956482
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.151685, train acc: 0.741333, train avg acc: 0.741333
+Test 0, loss: 1.294898, test acc: 0.680516, test avg acc: 0.674520
+Current Best: 0.680516
+Train 1, loss: 0.951319, train acc: 0.912267, train avg acc: 0.912267
+Test 1, loss: 0.997500, test acc: 0.868195, test avg acc: 0.869847
+Current Best: 0.868195
+Train 2, loss: 0.933994, train acc: 0.925333, train avg acc: 0.925333
+Test 2, loss: 0.926404, test acc: 0.934097, test avg acc: 0.932443
+Current Best: 0.934097
+Train 3, loss: 0.920221, train acc: 0.929867, train avg acc: 0.929867
+Test 3, loss: 0.860185, test acc: 0.959885, test avg acc: 0.959413
+Current Best: 0.959885
+Train 4, loss: 0.904381, train acc: 0.945067, train avg acc: 0.945067
+Test 4, loss: 0.868163, test acc: 0.958453, test avg acc: 0.957459
+Train 5, loss: 0.903990, train acc: 0.945067, train avg acc: 0.945067
+Test 5, loss: 0.846155, test acc: 0.968481, test avg acc: 0.968025
+Current Best: 0.968481
+Train 6, loss: 0.893569, train acc: 0.947733, train avg acc: 0.947733
+Test 6, loss: 0.892504, test acc: 0.949857, test avg acc: 0.949198
+Train 7, loss: 0.891405, train acc: 0.948267, train avg acc: 0.948267
+Test 7, loss: 0.850392, test acc: 0.964183, test avg acc: 0.963933
+Train 8, loss: 0.874015, train acc: 0.966400, train avg acc: 0.966400
+Test 8, loss: 0.894529, test acc: 0.932665, test avg acc: 0.932254
+Train 9, loss: 0.870663, train acc: 0.965067, train avg acc: 0.965067
+Test 9, loss: 0.878335, test acc: 0.955587, test avg acc: 0.956268
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.155050, train acc: 0.740533, train avg acc: 0.740533
+Test 0, loss: 0.993352, test acc: 0.881089, test avg acc: 0.879567
+Current Best: 0.881089
+Train 1, loss: 0.955833, train acc: 0.914667, train avg acc: 0.914667
+Test 1, loss: 1.019606, test acc: 0.868195, test avg acc: 0.867415
+Train 2, loss: 0.936263, train acc: 0.921067, train avg acc: 0.921067
+Test 2, loss: 0.961007, test acc: 0.912607, test avg acc: 0.910795
+Current Best: 0.912607
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Train 0, loss: 1.141715, train acc: 0.758400, train avg acc: 0.758400
+Test 0, loss: 1.175056, test acc: 0.710602, test avg acc: 0.704595
+Current Best: 0.710602
+Train 1, loss: 0.956694, train acc: 0.902667, train avg acc: 0.902667
+Test 1, loss: 0.999548, test acc: 0.892550, test avg acc: 0.891618
+Current Best: 0.892550
+Train 2, loss: 0.936362, train acc: 0.919200, train avg acc: 0.919200
+Test 2, loss: 0.959786, test acc: 0.915473, test avg acc: 0.913575
+Current Best: 0.915473
+Train 3, loss: 0.918121, train acc: 0.934667, train avg acc: 0.934667
+Test 3, loss: 0.857681, test acc: 0.955587, test avg acc: 0.955472
+Current Best: 0.955587
+Train 4, loss: 0.902501, train acc: 0.946133, train avg acc: 0.946133
+Test 4, loss: 0.889446, test acc: 0.951289, test avg acc: 0.950656
+Train 5, loss: 0.905212, train acc: 0.940533, train avg acc: 0.940533
+Test 5, loss: 0.865423, test acc: 0.955587, test avg acc: 0.955033
+Current Best: 0.955587
+Train 6, loss: 0.892795, train acc: 0.949867, train avg acc: 0.949867
+Test 6, loss: 0.864158, test acc: 0.959885, test avg acc: 0.959503
+Current Best: 0.959885
+Train 7, loss: 0.893257, train acc: 0.948533, train avg acc: 0.948533
+Test 7, loss: 0.855790, test acc: 0.965616, test avg acc: 0.965180
+Current Best: 0.965616
+Train 8, loss: 0.874350, train acc: 0.964267, train avg acc: 0.964267
+Test 8, loss: 0.929833, test acc: 0.918338, test avg acc: 0.918276
+Train 9, loss: 0.866146, train acc: 0.967200, train avg acc: 0.967200
+Test 9, loss: 0.839622, test acc: 0.969914, test avg acc: 0.969819
+Current Best: 0.969914
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 8 devices
+Namespace(exp_name='gbnet_my_shapenet', model='gbnet', dataset='my_shapenet', batch_size=25, test_batch_size=20, epochs=10, use_sgd=False, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using GPU : 0 from 1 devices
