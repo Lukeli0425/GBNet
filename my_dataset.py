@@ -33,8 +33,8 @@ class My_Dataset(data.Dataset):
         with open(self.labelfile, 'r') as f:
             for line in f:
                 ls = line.strip().split()
-                if self.npoints==5000:
-                    pts_path = os.path.join(self.path,ls[0][15:-11],'models/model_normalized_.pts')
+                if self.npoints==2500:
+                    pts_path = os.path.join(self.path,ls[0][15:-11],'models/model_normalized.pts')
                 else:
                     pts_path = os.path.join(self.path,ls[0][15:-11],'models/model_normalized_'+str(self.npoints)+'.pts')
 
