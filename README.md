@@ -1,3 +1,20 @@
+## GBNet-PointCloud
+
+This repository is my modification of GBNet to test a subset of ShapeNetCore Data on different models. Unzip ShapeNetCore.v2.zip in the root directory, the triangle mesh in obj files will be automatically sampled to get point clouds(stored in pts files). The txt files train_list.txt and test_list.txt are the labels for the selected data.
+
+To train the model on GBNet model using the selected data:
+```bash
+CUDA_VISIBLE_DEVICES=2 python main.py --exp_name=gbnet_my_shapenet --model=gbnet --dataset=my_shapenet
+```
+
+The trained model will be seved in ./checkpoints under the corresponding directory.
+
+## references:
+
+[Open3D Docs](http://www.open3d.org/docs/release/index.html#)
+
+Original README.md:
+
 # Geometric Back-projection Network for Point Cloud Classification
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/geometric-feedback-network-for-point-cloud/3d-point-cloud-classification-on-scanobjectnn)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-scanobjectnn?p=geometric-feedback-network-for-point-cloud)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/geometric-feedback-network-for-point-cloud/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=geometric-feedback-network-for-point-cloud)  
